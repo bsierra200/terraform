@@ -26,4 +26,3 @@ variable "ami_id" {
   description = "Ami EC2 LINUx"
 }
 
-export PATH="$PATH:/home/bsierra/DevOps/infra-aws"
